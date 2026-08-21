@@ -6,7 +6,7 @@ This repository hosts the documentation, research context and linguistic framewo
 Rather than focusing on sheer volume, this dataset acts as a deeply curated **linguistic micro-corpus**. It provides a granular, multidimensional look at structural variations, tonal inflections, and contextual applications within localised Igbo dialects. It establishes a high quality data baseline meant for fine-tuning linguistic models, testing AI translation systems, and preserving indigenous knowledge systems.
 
 ## Dataset Access
-To protect the integrity of this specialized data and track its academic or commercial application, the primary dataset file is securely hosted and gated on Hugging Face. 
+To protect the integrity of this specialised data and track its academic or commercial application, the primary dataset file is securely hosted and gated on Hugging Face. 
 
 👉 **[Download the Dataset on Hugging Face](https://huggingface.co)**
 
